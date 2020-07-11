@@ -1,0 +1,22 @@
+{
+    "name": "zidongjiashuiqi",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "TM1637": "github:makecode-extensions/tm1637#v1.0.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
